@@ -16,7 +16,8 @@ Global-Sales-Dashboard/
     ├── dashboard_overview.png
     └── sales_by_region.png
 ```
-![Dashboard Overview](assets/img/Sales-summary.jpg)
+
+![Dashboard Overview](https://github.com/quocnh/quocnh.github.io/blob/8146595572b3b1b29cf3d9325932efca47c8b59c/assets/img/Sales-summary.jpg)
 
 ## Features
 
