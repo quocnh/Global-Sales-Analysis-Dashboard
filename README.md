@@ -16,6 +16,7 @@ Global-Sales-Dashboard/
     ├── dashboard_overview.png
     └── sales_by_region.png
 ```
+![Dashboard Overview](assets/img/Sales-summary.jpg)
 
 ## Features
 
