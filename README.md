@@ -21,7 +21,7 @@ Global-Sales-Dashboard/
 
 ![Dashboard Overview](https://github.com/quocnh/quocnh.github.io/blob/7d26c219d881a11d4630a212d5459b6640c02e15/assets/img/tableau1.img)
 
-![Dashboard Overview](https://github.com/quocnh/quocnh.github.io/blob/8146595572b3b1b29cf3d9325932efca47c8b59c/assets/img/Sales-summary.jpg)
+![Dashboard Overview](https://github.com/quocnh/quocnh.github.io/blob/7d26c219d881a11d4630a212d5459b6640c02e15/assets/img/tableau2.img)
 
 ## Features
 
