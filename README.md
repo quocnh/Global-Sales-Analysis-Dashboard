@@ -24,16 +24,14 @@ Global-Sales-Dashboard/
 ![Dashboard Overview](https://github.com/quocnh/quocnh.github.io/blob/7d26c219d881a11d4630a212d5459b6640c02e15/assets/img/tableau2.img)
 
 ## Features
-
-    Interactive filters for region, product category, and date range
-    Visuals include sales trends, top products, and regional performance
-    KPIs for quick insights
+- Interactive filters for region, product category, and date range
+- Visuals include sales trends, top products, and regional performance
+- KPIs for quick insights
 
 ## Getting Started
-
-    Download the global_sales_dashboard.twbx file from the repository.
-    Open it in Tableau.
-    Explore the interactive dashboard and gain insights.
+- Download the global_sales_dashboard.twbx file from the repository.
+- Open it in Tableau.
+- Explore the interactive dashboard and gain insights.
 
 ## Data Source
 
