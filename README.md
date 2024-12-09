@@ -19,6 +19,10 @@ Global-Sales-Dashboard/
 
 ![Dashboard Overview](https://github.com/quocnh/quocnh.github.io/blob/8146595572b3b1b29cf3d9325932efca47c8b59c/assets/img/Sales-summary.jpg)
 
+![Dashboard Overview](https://github.com/quocnh/quocnh.github.io/blob/8146595572b3b1b29cf3d9325932efca47c8b59c/assets/img/tableau1.jpg)
+
+![Dashboard Overview](https://github.com/quocnh/quocnh.github.io/blob/8146595572b3b1b29cf3d9325932efca47c8b59c/assets/img/Sales-summary.jpg)
+
 ## Features
 
     Interactive filters for region, product category, and date range
